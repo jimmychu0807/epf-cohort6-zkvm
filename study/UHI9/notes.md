@@ -97,3 +97,7 @@ Return delta hook
 # Pendle Finance Study
 
 - youtube channel: https://www.youtube.com/@pendle_fi/videos
+
+# UHI9 Hookathon Competition
+
+Project ID number: HK-UHI9-0841
