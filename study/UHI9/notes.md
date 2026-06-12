@@ -101,3 +101,14 @@ Return delta hook
 # UHI9 Hookathon Competition
 
 Project ID number: HK-UHI9-0841
+
+# Ideation
+
+- hook data: https://github.com/AtriumAcademy/UHI-Hook-Data
+- on UHI8 demo day: https://www.youtube.com/live/ObR3iGVT3DE
+
+## Non toxic pools
+
+https://blog.atrium.academy/alumni-newsletter-edition-5
+
+## Delta-Gamma Neutral Hooks
